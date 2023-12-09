@@ -1,2 +1,2 @@
 # Java2.0_DSA
-for complete DSA for placement 2024
+complete DSA for placement 2024
