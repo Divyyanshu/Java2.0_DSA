@@ -8,7 +8,6 @@ public class CharPattern {
                 ch++;
             }
             System.out.println();
-
         }
 
     }
