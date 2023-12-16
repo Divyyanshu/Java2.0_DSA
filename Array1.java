@@ -15,5 +15,7 @@ public class Array1 {
         System.out.println("phy : " + marks[1]);
         System.out.println("chem : " + marks[2]);
         System.out.println("maths : " + marks[3]);
+
+        marks[3] = 50;
     }
 }
